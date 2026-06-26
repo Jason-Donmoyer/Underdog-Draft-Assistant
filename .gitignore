@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Environment variables (API keys go here later)
+.env
+.env.local
+.env.*.local
+
+# DS_Store
+.DS_Store
+
+# Build output
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Chrome extension build artifacts
+*.crx
+*.pem
+
+# Logs
+*.log
+npm-debug.log*
